@@ -1,0 +1,20 @@
+CARA MENERBITKAN "RUANG TIK WIHDATUL UMMAH" DI GITHUB PAGES (GRATIS)
+
+1. Ekstrak file ZIP ini. Isinya: index.html, folder assets, folder files, dan file .nojekyll.
+2. Masuk ke github.com dengan akun milik pondok/guru.
+3. Klik New (repository baru). Nama: ruang-tik  -> Public -> Create repository.
+4. Klik "uploading an existing file". Seret SEMUA isi folder hasil ekstrak
+   (index.html, assets, files, .nojekyll) ke kotak unggah. Tunggu sampai selesai.
+   Tulis pesan commit: "Terbitkan Ruang TIK" -> Commit changes.
+   (Jika file .nojekyll tidak terlihat di Windows, abaikan; website tetap berjalan.)
+5. Buka Settings -> Pages -> Branch: main, folder / (root) -> Save.
+6. Tunggu 1-5 menit. Alamat website: https://NAMA-AKUN.github.io/ruang-tik/
+
+Catatan:
+- Website ini publik. Isinya hanya perangkat ajar dan data latihan; tidak ada data santri.
+- Kunci jawaban "Website Rusak" (Kelas IX Modul 5) sengaja TIDAK dimasukkan.
+  Simpan file KUNCI_JAWABAN_GURU.txt hanya di komputer guru.
+- Untuk memperbarui satu file (misalnya slide yang direvisi): buka folder file itu di repository,
+  Add file -> Upload files, unggah file dengan NAMA YANG SAMA, lalu Commit changes.
+- Website juga bisa dibuka tanpa internet: klik dua kali index.html di komputer
+  (tampilan huruf sedikit berbeda karena font daring tidak termuat).
